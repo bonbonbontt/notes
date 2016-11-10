@@ -45,7 +45,8 @@ This paper analyzes the individual temporal information of nodes in 4 online soc
 - the growth model generates graph with similar global properties (clustering, hop distance, power law)
     - outperforms PA model
 
-![Image of Yaktocat](./01_growthmodel.png)
+<img src="./01_growthmodel.png" height="350"/>
+
 
 ### Conclusions
 - growth models that incorporate local processes can generate graphs with similar macro properties
