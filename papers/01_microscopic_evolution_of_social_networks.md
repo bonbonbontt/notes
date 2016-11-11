@@ -51,6 +51,7 @@ This paper analyzes the individual temporal information of nodes in 4 online soc
 ### Conclusions
 - growth models that incorporate local processes can generate graphs with similar macro properties
 - likelihood approach can be used to evaluate the bias of a network towards local properties
+- most "global" generative models (e.g. PA) don't generate accurate clustering coefficients in graphs
 - **strengths**
     + decomposes network into 3 distinct local processes
     + model provides intution behind edge formation in social networks
