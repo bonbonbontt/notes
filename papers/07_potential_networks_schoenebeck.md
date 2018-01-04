@@ -1,5 +1,8 @@
 ## Potential Networks, Contagious Communities and Understanding Social Network Structure (www 2013)
 ---
+
+Link: https://arxiv.org/abs/1304.1845
+
 ### Overview
 This paper provides evidence that *online* social network datasets are not
 representative of the structural properties in *real* social networks. It provides

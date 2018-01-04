@@ -1,6 +1,8 @@
 ## Spectral Goodness of Fit
 ---
 
+Link: https://arxiv.org/abs/1407.7247
+
 ### Overview
 spectral goodness of fit (SGOF) to measure how well a network model explains the structure of an observed network. SGOF provides an absolute measure of fit, analogous to the standard R^2. p.2:  In particular, leveraging the features of the spectrum of the graph Laplacian, we define a new goodness of fit statistic that measures the percent improvement a network model makes over a null model in explaining the structure in the observed data.
 

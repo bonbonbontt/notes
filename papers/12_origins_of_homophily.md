@@ -1,6 +1,8 @@
 ## Origins of Homophily in an Evolving Social Network
 ---
 
+Link: https://research.google.com/pubs/pub35626.html
+
 ### Overview
 - This paper thoroughly analyzes the role of homophily in tie formation
 as a function of similarity and structural proximity using a real-world

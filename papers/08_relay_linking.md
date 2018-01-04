@@ -1,5 +1,8 @@
 ## Relay-Linking Models for Prominence and Obsolescence in Evolving Networks
 ---
+
+Link: http://www.kdd.org/kdd2017/papers/view/relay-linking-models-for-prominence-and-obsolescence-in-evolving-networks
+
 ## Overview
 This paper proposes a family of aging models that capture temporal
 properties of evolving networks using few global parameters. Main idea: old
